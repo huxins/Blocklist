@@ -1,9 +1,13 @@
 *://*/le/*
 *://*/x/*
+*://*/xy/*
 *://*/zhi/*
 title/(每日|今日|今天)(头条|頭條)/
 title/知识网/
 title/百科网/
+title/组词网/
+title/感人网/
+title/客知网/
 *://*.sogou.com/*searchList*
 *://*.da-quan.net/*
 *://118.193.38.103/*
@@ -16,3 +20,11 @@ title/百科网/
 *://*.mlog.club/*
 *://*.lvsebaowen.com/*
 *://*.mostgoldpound.top/*
+*://*.pai-hang-bang.com/*
+*://*.huoguodi.com/*
+*://*.aijinda.cn/*
+*://*.nyyryy.com/*
+*://*.cafegatto.com/*
+*://*.yunqishi.net/*
+*://*.looksearch.cc/*
+*://*.wtsearch.cc/*
