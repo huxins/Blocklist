@@ -2,5 +2,6 @@
 *://*/x/*
 title/(每日|今日|今天)(头条|頭條)/
 title/知识网/
+*://*.sogou.com/*searchList*
 *://*.da-quan.net/*
 *://118.193.38.103/*
