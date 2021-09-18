@@ -9,6 +9,11 @@ title/组词网/
 title/感人网/
 title/客知网/
 *://*.sogou.com/*searchList*
+*://m.jd.com/*
+*://list.jd.com/*
+*://item.m.jd.com/*
+*://www.jd.com/pinpai/*
+*://www.jd.com/zuozhe/*
 *://*.da-quan.net/*
 *://118.193.38.103/*
 *://*.paperbert.com/*
@@ -28,3 +33,6 @@ title/客知网/
 *://*.yunqishi.net/*
 *://*.looksearch.cc/*
 *://*.wtsearch.cc/*
+*://*.dongmantupianku.com/*
+*://*.dylvvvf.com/*
+*://*.22zy.net/*
